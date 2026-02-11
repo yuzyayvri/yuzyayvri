@@ -6,6 +6,8 @@ I'm an honor student, though I spend most my freetime playing videogames, writin
 
 I started taking Python seriously on the 8th of February, 2026— so I'm still deep in the process of learning. However, I started coding at 10 on Roblox.
 
+Committing daily... to my Moon. 🌙
+
 ---
 
 ### Projects 💻
