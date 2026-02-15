@@ -1,10 +1,10 @@
 ## print('Hello World! I'm Yuzy!') 👋
 
-I'm Yuzy Ayvri, or just Yuzy for short. I'm a 15-year-old self-taught Python programmer, and an aspiring software engineer. I've been passionate about programming— and computers as a whole— since childhood.
+I'm Yuzy Ayvri, or just Yuzy for short. I'm a 15-year-old programmer with a strong interest in computer science and an aspiring software engineer. I've been passionate about programming— and computers as a whole— since childhood.
 
-I'm an honor student, though I spend most my freetime playing videogames, writing or reading literature, and... if you haven't guessed, coding.
+I'm an honor student, though I spend most my free time playing video games, writing or reading literature, and... if you haven't guessed, coding.
 
-I started taking Python seriously on the 8th of February, 2026— so I'm still deep in the process of learning. However, I started coding at 10 on Roblox.
+I started coding at age 10 through Roblox— though in February 2026 I began serious self-study in Python and computer science. In the coming months, I also plan to learn C++ and JavaScript.
 
 Committing code— and my heart... to my Moon. 🌙
 
