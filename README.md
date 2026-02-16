@@ -20,7 +20,7 @@ Committing code— and my heart... to my _**Moon**_. 🌙
   - _HTML/CSS (basic)_ - creating and styling simple web pages
   - Someday, C++ and JavaScript
 - Actively self-studying **college-level computer science and math** through **MIT OpenCourseWare** and other online resources, applying concepts in personal projects
-- GitHub streak is starting good— and I plan to commit _regularly_ as I grow as a programmer and CS enthusiast
+- GitHub is starting good— and I plan to commit _regularly_ as I grow as a programmer and CS enthusiast
 
 ---
 
