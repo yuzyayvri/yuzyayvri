@@ -8,6 +8,8 @@ I started coding at age 10 through **Roblox**— though in **February 2026** I b
 
 Committing code— and my heart... to my _**Moon**_. 🌙
 
+P.S. Partly inactive due to school!
+
 ---
 
 ### Accomplishments & Stats 🏆
