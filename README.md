@@ -8,7 +8,9 @@ I started coding at age 10 through **Roblox**— though in **February 2026** I b
 
 Committing code— and my heart... to my _**Moon**_. 🌙
 
-P.S. Partly inactive due to school!
+Also known as Alasdair Liu.
+
+P.S. Partly inactive due to school! Finals week.
 
 ---
 
@@ -36,6 +38,6 @@ These repos show my growth as a programmer! And of course, I have many more proj
 ---
 
 ### Contact Me 💬
-Discord: **yuzyayvri**
+Discord: **_alistaire**
 - I'm open to chats, especially **meaningful conversations** where I can learn new things and concepts— I'm also willing to receive **feedback** and **criticism**.
 
