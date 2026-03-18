@@ -8,10 +8,6 @@ I started coding at age 10 through **Roblox**— though in **February 2026** I b
 
 Committing code— and my heart... to my _**Moon**_. 🌙
 
-Also known as Alasdair Liu.
-
-P.S. Partly inactive due to school! Finals week.
-
 ---
 
 ### Accomplishments & Stats 🏆
@@ -32,6 +28,7 @@ P.S. Partly inactive due to school! Finals week.
 - My [**basic Python calculator**](https://github.com/yuzyayvri/basic-python-calculator), which is also my first ever Python project! I continuously update it the more I learn. I never add something unless I know I already have a grasp of what it does.
 - My [**algorithms library**](https://github.com/yuzyayvri/algorithms), essentially my personal library for a bunch of algorithms— ones that I learn and write personally. So like my calculator, everything in the repository was learned and applied by me!
 - My [**data structures collection**](https://github.com/yuzyayvri/data-structures), like my algorithms library, this is where I put data structures that I have learned and written myself.
+- Working on a project named **Gnosis**! A small language model for evaluating the credibility of sources and research while maintaining scholarly integrity. It's still heavily in the works, but the PythonAnywhere website is under my profile!
 
 These repos show my growth as a programmer! And of course, I have many more projects to make.
 
